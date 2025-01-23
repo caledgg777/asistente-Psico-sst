@@ -123,3 +123,18 @@ Time: 19:6
 Phone Number: +573166258715
 Message: Este es un mensaje de prueba.
 --------------------
+Date: 22/1/2025
+Time: 21:49
+Phone Number: +573168241257
+Message: ¡Hola! Este es un mensaje de prueba
+--------------------
+Date: 22/1/2025
+Time: 21:55
+Phone Number: +573168241257
+Message: ¡Hola! Este es un mensaje de prueba
+--------------------
+Date: 22/1/2025
+Time: 22:19
+Phone Number: +573168241257
+Message: ¡Hola, buenas noches!Soy tu asistente virtual. Quiero mantenerte al tanto:- Recuerda revisar las actualizaciones del proyecto.- Enlace del repositorio: https://github.com/caledgg777/asistente-Psico-sst¡Cualquier duda, aquí estoy para ayudarte!
+--------------------
